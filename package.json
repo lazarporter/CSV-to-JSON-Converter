@@ -1,0 +1,22 @@
+{
+  "name": "csv-to-json-converter",
+  "version": "1.0.0",
+  "description": "A package to convert a CSV file to a JSON formatted file",
+  "main": "csv2json.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazarporter/CSV-to-JSON-Converter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lazarporter/CSV-to-JSON-Converter/issues"
+  },
+  "homepage": "https://github.com/lazarporter/CSV-to-JSON-Converter#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.8"
+  }
+}
