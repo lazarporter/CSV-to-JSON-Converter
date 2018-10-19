@@ -13,3 +13,4 @@ csv().fromFile(filePath).then( (allData)=>{
     })
 })
 
+//implement diff-ing the output and the solution data
